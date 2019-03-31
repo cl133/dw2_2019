@@ -1,0 +1,42 @@
+.title{
+  height:100px; /*altura*/
+  width: 89%;   /*anchura*/
+  padding-left: 150px; /*Con esto puedo mover el texto Mi sitio, 
+  en realidad lo que hace es agregar un relleno*/
+  border: black 2px solid; 
+
+}
+.menucaja1{
+	margin-top: 10px;
+	margin-left:220px;
+    border: 2px solid black;
+  	height: 200px;
+  	width: 200px;
+  
+}
+.caja2{
+	margin-top: 10px;
+	margin-left:220px;
+	border: 2px solid black;
+	height:200px;
+	width: 200px;
+}
+.formulario{
+	position: absolute;
+	top: 120px;
+	left:420px;
+	margin-left:25px;
+	margin-right:220px;
+	height:318px;
+	width: 800px;
+
+}
+.footer{
+	height: 50px;
+  	width: 800px;
+	margin-top: 112px;
+	margin-left: 300px;
+	border: black 2px solid;
+	padding-top: 40px;
+}
+
